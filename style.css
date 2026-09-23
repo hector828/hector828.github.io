@@ -21,7 +21,7 @@ header li{
     margin: 0;
 }
 li div{
-    background-color: rgb(230, 188, 52);
+    background-color: rgb(230, 52, 52);
     padding: 10px;
     width: 100%;
     text-align: center;
@@ -30,5 +30,5 @@ li div{
     box-sizing: border-box;
 }
 li div:hover{
-    background-color: rgb(175, 144, 42);
+    background-color: rgb(167, 37, 37);
 }
