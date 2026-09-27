@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 header ol{
     display: flex;
@@ -11,6 +12,7 @@ header ol{
 nav{
     top: 0;
     width: 100%;
+    font-size: 20px;
 }
 header a{
     text-decoration: none;
@@ -21,7 +23,7 @@ header li{
     margin: 0;
 }
 li div{
-    background-color: rgb(230, 52, 52);
+    background-color: rgb(204, 95, 95);
     padding: 10px;
     width: 100%;
     text-align: center;
@@ -31,4 +33,17 @@ li div{
 }
 li div:hover{
     background-color: rgb(167, 37, 37);
+}
+footer{
+    background-color: rgb(204, 95, 95);
+    width: 100%;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 60%;
+    display: block;
+    margin: auto;
 }
