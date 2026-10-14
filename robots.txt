@@ -1,2 +1,3 @@
 User-agent:*
 Allow: /*
+sitemap: https://hector828.github.io/sitemap.xml
