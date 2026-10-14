@@ -4,22 +4,27 @@
 
   <url>
        <loc>https://hector828.github.io/</loc>
-       <lastmod>2026-10-12T21:10:27+00:00</lastmod>
+       <lastmod>2026-10-14T09:54:11+00:00</lastmod>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://hector828.github.io/index.html</loc>
-       <lastmod>2026-10-12T21:10:27+00:00</lastmod>
+       <lastmod>2026-10-14T09:54:11+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://hector828.github.io/camisetas-premier-league.html</loc>
-       <lastmod>2026-10-12T21:10:27+00:00</lastmod>
+       <lastmod>2026-10-14T09:54:11+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://hector828.github.io/enlaces.html</loc>
-       <lastmod>2026-10-12T21:10:27+00:00</lastmod>
+       <lastmod>2026-10-14T09:54:11+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hector828.github.io/camisetas-premier-league/index.html</loc>
+       <lastmod>2026-10-14T09:54:11+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
 </urlset>
