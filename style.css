@@ -14,11 +14,8 @@ header ol{
     margin: 0;
     padding: 0;
 }
-h1{
-    margin: 0;
-    color: white;
-}
-h2{
+
+.principal h2{
     border-bottom: 5px dashed black;
     padding: 10px;
 }
@@ -44,7 +41,7 @@ header a{
     align-content: center;
 }
 header li{
-    width: 25%;
+    width: calc(100%/7);
     margin: 0;
 }
 li a:hover{
@@ -62,15 +59,28 @@ footer{
 p{
     text-align: center;
 }
-main img{
-    width: 10%;
+.principal main section img{
+    height: 20vh;
     display: block;
     margin: auto;
 }
-article img{
-    width: 5%;
+.principalsection article img{
+    height: 10vh;
 }
-section{
+.principal section{
     text-align: center;
     margin: 60px;
+}
+.laliga section{
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 10%;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+.laliga article{
+    margin: auto;
+    padding: 20px;
+    text-align: center;
 }
