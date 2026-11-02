@@ -73,14 +73,6 @@ p{
     width: 80%;
     margin: auto;
 }
-.principal main section img{
-    height: 20vh;
-    display: block;
-    margin: auto;
-}
-.principal section article img{
-    height: 10vh;
-}
 .principal section{
     text-align: center;
     margin: 60px;
