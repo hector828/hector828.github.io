@@ -22,6 +22,7 @@ h1{
     padding: 0;
 }
 h2{
+    margin: 0;
     text-align: center;
     font-size: 2rem;
 }
@@ -60,6 +61,10 @@ li a:hover{
 main{
     margin-top: 120px;
 }
+main>p{
+    text-align: left;
+    margin-left: 20px;
+}
 footer{
     background-color: rgb(51, 8, 19);
     width: 100%;
@@ -79,6 +84,8 @@ p{
 }
 .laliga section{
     width: 500px;
+    height: 600px;
+    vertical-align: top;
     border: 2px solid black;
     border-radius: 10%;
     padding: 10px;
