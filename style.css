@@ -10,7 +10,7 @@ header{
     width: 100%;
     top: 0px;
 }
-header ol{
+header ol, .coleccionismo ol{
     display: flex;
     justify-content: space-evenly;
     list-style: none;
@@ -32,6 +32,7 @@ h2{
 }
 a{
     color:inherit ;
+    text-decoration: none;
 }
 nav{
     top: 0;
@@ -55,15 +56,16 @@ header li{
     width: calc(100%/7);
     margin: 0;
 }
-li a:hover{
+header li a:hover{
     background-color: rgb(147, 11, 45);
 }
 main{
     margin-top: 120px;
+    text-align: center;
 }
-main>p{
-    text-align: left;
+main p:first-of-type{
     margin-left: 20px;
+    text-align: left;
 }
 footer{
     background-color: rgb(51, 8, 19);
@@ -71,12 +73,11 @@ footer{
     text-align: center;
     color: white;
 }
-p{
-    text-align: center;
-}
-.principal p{
+.principal p:first-of-type, .coleccionismo p{
     width: 80%;
     margin: auto;
+    text-align: center;
+    font-size: 1.3rem;
 }
 .principal section{
     text-align: center;
@@ -96,4 +97,26 @@ p{
     margin: auto;
     padding: 20px;
     text-align: center;
+}
+.coleccionismo main li{
+    display: inline-block;
+    width: 33%;
+    background-color: rgb(51, 8, 19);
+    border-radius: 10px;
+    margin: 10px;
+    border: 10px solid black;
+    box-sizing: border-box;
+}
+.coleccionismo main li:hover{
+    border: 5px solid black;
+}
+.coleccionismo main nav a{
+    color: white;
+    display: block;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.coleccionismo main ol{
+    margin: 10px 100px;
 }
