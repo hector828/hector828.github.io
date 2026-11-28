@@ -4,42 +4,37 @@
 
   <url>
        <loc>https://hector828.github.io/</loc>
-       <lastmod>2026-10-25T11:38:08+00:00</lastmod>
+       <lastmod>2026-11-24T08:20:15+00:00</lastmod>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://hector828.github.io/index.html</loc>
-       <lastmod>2026-10-25T11:38:08+00:00</lastmod>
+       <lastmod>2026-11-24T08:20:15+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://hector828.github.io/camisetas-laliga/index.html</loc>
-       <lastmod>2026-10-25T11:38:08+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://hector828.github.io/camisetas-premier-league/index.html</loc>
-       <lastmod>2026-10-25T11:38:08+00:00</lastmod>
+       <lastmod>2026-11-24T08:20:15+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://hector828.github.io/camisetas-champions-league/index.html</loc>
-       <lastmod>2026-10-25T11:38:08+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://hector828.github.io/camisetas-selecciones/index.html</loc>
-       <lastmod>2026-10-25T11:38:08+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://hector828.github.io/camisetas-otras-ligas-competiciones/index.html</loc>
-       <lastmod>2026-10-25T11:38:08+00:00</lastmod>
+       <lastmod>2026-11-24T08:20:15+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://hector828.github.io/enlaces.html</loc>
-       <lastmod>2026-10-25T11:38:08+00:00</lastmod>
+       <lastmod>2026-11-24T08:20:15+00:00</lastmod>
        <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hector828.github.io/camisetas-premier-league</loc>
+       <lastmod>2026-11-24T08:20:15+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://hector828.github.io/camisetas-premier-league.html</loc>
+       <lastmod>2026-11-24T08:20:15+00:00</lastmod>
+       <priority>0.5120</priority>
   </url>
 </urlset>
